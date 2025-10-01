@@ -2,7 +2,7 @@
 <h3 align="center">AI Developer | Flutter Enthusiast | Full-Stack (Laravel) Developer</h3>
 
 <p align="center">
-  <img src="https://secure.gravatar.com/avatar/d7e1503106687c9ee617d48336c3f24278f3d9af952a86995a15b622b8559af7?s=360" alt="Rhythm Bhattarai" />
+  <img src="https://secure.gravatar.com/avatar/d7e1503106687c9ee617d48336c3f24278f3d9af952a86995a15b622b8559af7?s=160" alt="Rhythm Bhattarai" />
 </p>
 
 ---
