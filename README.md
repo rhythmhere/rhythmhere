@@ -3,6 +3,12 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rhythm%20Bhattarai&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Line%20at%20a%20Time&descAlignY=58&descSize=16&animation=fadeIn" />
 
+<br/>
+
+<img src="https://secure.gravatar.com/avatar/d7e1503106687c9ee617d48336c3f24278f3d9af952a86995a15b622b8559af7?s=160" width="120" style="border-radius: 50%;" alt="Rhythm Bhattarai"/>
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Laravel+Developer+%F0%9F%92%BB;Flutter+%26+Mobile+App+Developer+%F0%9F%93%B1;Founder+%40+CodeCrypse+IT+Solutions+%F0%9F%9A%80;Always+building%2C+always+learning+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
